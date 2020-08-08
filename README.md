@@ -21,7 +21,7 @@ My name is Paloma Santana. I'm 20yo and I'm from São Paulo, SP-Brazil. I'm a st
 -------------------------------------------------------------------------------------------------------------------------------------------------
 ### 👯 I’m looking to collaborate on a project
 
-### 💬 Ask me about IEEE and CHAPTER RAS or CS 
+### 💬 Ask me about IEEE RAS or CS, Arduino, Raspberry Pi.
 --------------------------------------------------------------------------------------------------------------------------------------------------
 ### 😄 Languages
 
@@ -34,8 +34,10 @@ My name is Paloma Santana. I'm 20yo and I'm from São Paulo, SP-Brazil. I'm a st
 ### ⚡ Fun fact:
 
 - Play drumms
+- Dreamer
+- Travel addicted
 - Swimmer
 - Love commedy series
 - Always learning
-- Dog person and travel addicted
+- Dog person
 
