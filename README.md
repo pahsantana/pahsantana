@@ -3,11 +3,13 @@
 <!--
 **pahsantana/pahsantana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Who am I? That's a secret I'll never tell 
+### Who I am?
 
 My name is Paloma Santana. I'm 20yo and I'm from São Paulo, SP-Brazil. I'm a student full-stack developer. Passionate about technology and helping to solve problems.
 
-### Technologies: --------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Technologies:
 - 🌱 I’m currently learning React Native, ReactJS, JS, .NET, Nunjucks, TS, Node JS, SQL and others.
 -------------------------------------------------------------------------------------------------------------------------------------------------
 ### I'm looking for
