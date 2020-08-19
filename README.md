@@ -5,18 +5,18 @@
 
 ### Who I am?
 
-My name is Paloma Santana. I'm 20yo and I'm from São Paulo, SP-Brazil. I'm a student full-stack developer. Passionate about technology and helping to solve problems.
+My name is Paloma Santana. I'm 20yo and I'm from São Paulo, Brazil. I'm a student full-stack developer. Passionate about technology and helping to solve problems.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Technologies:
-- 🌱 I’m currently learning React Native, ReactJS, JS, .NET, Nunjucks, TS, Node JS, SQL and others.
+- 🌱 I’m currently learning React Native, ReactJS, JS, .NET,TS, Node JS, SQL and python stuff.
 -------------------------------------------------------------------------------------------------------------------------------------------------
 ### I'm looking for
 
 - A job in Frontend or FullStack developer.
 - Hackathons
-- New courses in IOT and Machine Learning 
+- New courses in IOT, Machine Learning and Data science
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
 ### 👯 I’m looking to collaborate on a project
