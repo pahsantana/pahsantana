@@ -26,7 +26,8 @@ My name is Paloma Santana. I'm 20yo and I'm from São Paulo, Brazil. I'm a stude
 ### 😄 Languages
 
 - English | Advanced
-- French | Intermediate
+- French | Beginner
+-Italian | Beginner
 - Spanish | Intermediate
 - Portuguese | Native
 
