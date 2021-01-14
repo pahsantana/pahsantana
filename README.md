@@ -15,7 +15,7 @@ My name is Paloma Santana. I'm 20yo and I'm from São Paulo, Brazil. I'm a stude
 ### I'm looking for
 
 - A job in Frontend or FullStack developer.
-- Hackathons
+- Hackathons (I've been waiting for the result of global final of NASA SPACE APPS CHALLENGE- Team UFAir) 
 - New courses in IOT, Machine Learning and Data science
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
