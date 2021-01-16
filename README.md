@@ -5,7 +5,7 @@
 
 ### Who I am?
 
-My name is Paloma Santana. I'm 20yo and I'm from São Paulo, Brazil. I'm a student full-stack developer. Passionate about technology and helping to solve problems.
+My name is Paloma Santana. I'm 20yo and I'm from São Paulo-SP, Brazil. I'm a student full-stack developer. Passionate about technology and helping to solve problems.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
