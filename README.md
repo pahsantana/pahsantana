@@ -1,4 +1,4 @@
-### Hi Dev! How are you? | Salut Dev! Comment allez vous? | Hola Dev ¿cómo vas? 👋
+### Hi Dev! How are you? | Salut Dev! Comment allez vous? | Hola Dev ¿cómo vas? 👋 | Ciao Dev, como stai?
 
 <!--
 **pahsantana/pahsantana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
@@ -15,8 +15,8 @@ My name is Paloma Santana. I'm 20yo and I'm from São Paulo-SP, Brazil. I'm a st
 ### I'm looking for
 
 - A job in Frontend or FullStack developer.
-- Hackathons (I've been waiting for the result of the judges of NASA SPACE APPS CHALLENGE- Team UFAir- Global nominee and finalist) 
-- New courses in IOT, Machine Learning and Data science
+- Hackathons (I've been waiting for the result of the judges of NASA SPACE APPS CHALLENGE 9th edition- Team UFAir- Global nominee and finalist) 
+- New free courses in IOT, Machine Learning and Data science.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
 ### 👯 I’m looking to collaborate on a project
@@ -27,14 +27,13 @@ My name is Paloma Santana. I'm 20yo and I'm from São Paulo-SP, Brazil. I'm a st
 
 - English | Advanced
 - French | Beginner
--Italian | Beginner
+- Italian | Beginner
 - Spanish | Intermediate
 - Portuguese | Native
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 ### ⚡ Fun fact:
 
-- Play drumms
 - Dreamer
 - Travel addicted
 - Swimmer
