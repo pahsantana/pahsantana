@@ -1,4 +1,4 @@
-### Hi Dev! How are you? | Salut Dev! Comment allez vous? | Hola Dev ¿cómo vas? 👋 | Ciao Dev, come stai?
+### Olá dev, como você está?|  Hi Dev! How are you? | Salut Dev! Comment allez vous? | ¡Hola Dev! ¿cómo vas? 👋 | Ciao Dev! come stai?
 
 <!--
 **pahsantana/pahsantana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
