@@ -11,7 +11,7 @@ My thesis is about integrating robotic arms with VR (Meta Quest 3s)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 ### Technologies:
-- 🌱 I’m currently learning Golamg and System Design.
+- 🌱 I’m currently learning Golang and System Design. 
 -------------------------------------------------------------------------------------------------------------------------------------------------
 ### 😄 Languages
 
