@@ -1,43 +1,32 @@
-### Olá dev, como você está?|  Hi Dev! How are you? | Salut Dev! Comment allez vous? | ¡Hola Dev! ¿cómo vas? 👋 | Ciao Dev! come stai?
+### Olá dev, como você está?|  Hi Dev! How are you? | Salut Dev! Comment allez vous? | ¡Hola Dev! ¿cómo vas? 👋 |  你好， 开发者. 你最近怎么样？
 
 <!--
 **pahsantana/pahsantana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 ### Who I am?
 
-My name is Paloma Santana. I'm 20yo and I'm from São Paulo-SP, Brazil. I'm a student full-stack developer. Passionate about technology and helping to solve problems.
+My name is Paloma Santana. I'm 25 years old and I'm from São Paulo-SP, Brazil. I'm full-stack developer, computer scientist and . Passionate about technology and helping to solve problems.
+
+My thesis is about integrating robotic arms with VR (Meta Quest 3s)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
-
 ### Technologies:
-- 🌱 I’m currently learning React Native, ReactJS, JS, .NET,TS, Node JS, SQL and python stuff.
+- 🌱 I’m currently learning Golamg and System Design.
 -------------------------------------------------------------------------------------------------------------------------------------------------
-### I'm looking for
-
-- Hackathons 
-(NASA SPACE APPS CHALLENGE 9th edition- Team UFAir- Global nominee and finalist) 
-- New free courses in IOT, Machine Learning and Data science.
-
--------------------------------------------------------------------------------------------------------------------------------------------------
-### 👯 I’m looking to collaborate on a project
-
-### 💬 Ask me about IEEE RAS or CS, Arduino, Raspberry Pi.
---------------------------------------------------------------------------------------------------------------------------------------------------
 ### 😄 Languages
 
 - English | Advanced
 - French | Beginner
-- Italian | Beginner
 - Spanish | Intermediate
 - Portuguese | Native
+- Mandarin | Beginner
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 ### ⚡ Fun fact:
 
-- Dreamer
-- Travel addicted
 - Swimmer
 - Love commedy series
-- Always learning
 - Dog person
+- Communicative
+- Hardworking
 
